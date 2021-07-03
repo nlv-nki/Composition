@@ -1,3 +1,9 @@
 node_modules
 *.log
 .DS_Store
+Solutions
+JavaScript
+.github
+Exercises.ru.md
+package-lock.json
+LICENSE
